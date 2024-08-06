@@ -1,16 +1,20 @@
-## Hi there 👋
+## sobre  minha pessoa
 
-<!--
-**mahannarayane/mahannarayane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  -Eu sou aluna do colegio Civico-Militar Gregorio Szeremeta.
+  -
 
-Here are some ideas to get you started:
+-Me chamo **Mahanna**.
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Gosto de ouvir musica.
+-
+
+-Sou muito paciente
+-
+
+-Prefiro ficar em casa.
+-
+
+
+![image](https://github.com/user-attachments/assets/91f2bc07-9cb9-459b-b935-674649849a60)
