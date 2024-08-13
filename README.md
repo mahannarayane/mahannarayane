@@ -1,8 +1,8 @@
 ## sobre  minha pessoa
 
   
-  -Eu sou aluna do colegio Civico-Militar Gregorio Szeremeta.
-  -
+-Eu sou aluna do colegio Civico-Militar Gregorio Szeremeta.
+-
 
 -Me chamo **Mahanna**.
 -
@@ -10,8 +10,6 @@
 -Gosto de ouvir musica.
 -
 
--Sou muito paciente
--
 
 -Prefiro ficar em casa.
 -
